@@ -1,0 +1,24 @@
+.container{
+    background-color:#FFCC99 ;
+    height: auto;
+    width: auto;
+}
+#zoneItems{
+    background-color:#FFCC99 ;
+  
+ 
+}
+#zoneAffichage{
+    background-color:#49D1BA;;
+   
+ 
+}
+.onglet{
+    margin-top: 15vh;
+    margin-bottom: 15vh;
+    background-color:#49D1BA ;
+    text-align: center;
+}
+.deconnection{
+    float: right;
+}
